@@ -1,85 +1,188 @@
-# Hi 👋, I'm Rathish
+Hi 👋, I'm Rathish
 
-### Electrical and Electronics Engineering Student | Electronics | Embedded Systems | Drones | AI
+Electrical and Electronics Engineering Student | AI & Technology Enthusiast | Digital Marketing Learner
 
-I'm an enthusiastic **Electrical and Electronics Engineering student from Tamil Nadu, India**, interested in building technology that solves real-world problems.
+I'm a first-year Electrical and Electronics Engineering student from Tamil Nadu, India, interested in exploring technology and building practical projects.
 
-I enjoy exploring **drones, electronics, embedded systems, renewable energy, artificial intelligence, and app development**. I'm continuously learning new technologies and working on projects to improve my practical and technical skills.
+I'm currently learning and experimenting with Artificial Intelligence, app development, drones, electronics, renewable energy, programming, and digital marketing.
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **Electrical and Electronics Engineering**
-- 🚁 Interested in **Drones & UAV Technology**
-- 🔌 Passionate about **Electronics & Embedded Systems**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- ⚡ Interested in **Renewable Energy & Smart Energy Systems**
-- 📱 Learning **App Development**
-- 💡 Interested in building **AI-powered real-world applications**
-- 🌱 Currently improving my programming and project-building skills
-- 🚀 Goal: Build innovative projects and gain practical industry experience
+I believe in learning by building — starting with what I know, creating projects, and improving step by step. 🚀
 
 ---
 
-## 🛠️ Skills & Technologies
+👨‍💻 About Me
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+🎓 First-year Electrical and Electronics Engineering (EEE) student
 
-### 🔧 Electronics & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+🤖 Exploring Artificial Intelligence and AI tools
 
-- Microcontrollers
-- Sensors & Actuators
-- Embedded Systems
-- IoT
-- Circuit Design
-- PCB Basics
-- Serial Communication
-- Robotics
+📱 Building and experimenting with AI-powered applications
 
-### 🤖 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+🚁 Exploring Drone Technology
 
-- Machine Learning
-- Computer Vision
-- AI-based Applications
-- Image Processing
-- Object Detection
-- AI Automation
+⚡ Learning about Electrical Engineering and Renewable Energy
 
-### 🚁 Drones & Robotics
+📈 Completed a Certificate Course in Digital Marketing
 
+💻 Improving my programming and project-building skills
+
+🌱 Learning new technologies through courses, experiments, and projects
+
+🚀 Looking for opportunities to gain practical experience and build real-world projects
+
+---
+
+🛠️ What I'm Currently Learning
+
+💻 Programming & Development
+
+- Python
+- C / C++
+- Git & GitHub
+- VS Code
+- API integration
+- App development
+
+🤖 Artificial Intelligence
+
+- AI tools
+- AI-powered applications
+- Computer Vision — exploring
+- Machine Learning — learning
+- AI automation — exploring
+
+🚁 Drone Technology
+
+- Drone technology fundamentals
+- Drone software concepts
+- UAV technology — exploring
+
+⚡ Electrical & Electronics
+
+- Electrical engineering fundamentals
+- Electronics fundamentals
+- Renewable energy
+- Solar energy
+- Energy systems
+
+📈 Digital Marketing
+
+- Digital Marketing fundamentals
+- Content Marketing
+- SEO fundamentals
+- Social Media Marketing
+- Paid Advertising fundamentals
+
+---
+
+🚀 Projects
+
+🍳 AI Cooking Application
+
+I'm currently working on an AI-powered cooking application that explores how AI can help users identify ingredients, discover recipes, and receive guidance while cooking.
+
+Technologies and tools I'm exploring:
+
+- AI
+- Mobile application development
+- APIs
+- Supabase
+- Database integration
+- AI-powered image recognition
+
+I'm continuously improving the project and learning from the development process.
+
+---
+
+💡 Projects I Want to Build
+
+As I continue learning, I want to experiment with projects such as:
+
+🚁 AI-assisted drone applications
+
+🌱 Smart agriculture using technology
+
+⚡ Renewable energy monitoring projects
+
+🤖 AI-based computer vision applications
+
+📱 AI-powered mobile applications
+
+🔋 Battery and energy monitoring systems
+
+🌐 IoT-based projects
+
+These are future project ideas, and I plan to build them as I develop the required skills.
+
+---
+
+📚 Currently Learning
+
+- Python
+- C / C++
+- Artificial Intelligence
+- AI tools
+- App Development
+- Git & GitHub
 - Drone Technology
-- UAV Systems
-- Flight Controllers
-- Drone Electronics
-- Robotics
-- Autonomous Systems
-- Sensor Integration
+- Renewable Energy
+- Electronics fundamentals
+- Digital Marketing
+- Content Creation
 
-### ⚡ Renewable Energy
+---
 
-- Solar Energy
-- Energy Management
-- Power Electronics
-- Battery Systems
-- Smart Energy Systems
-- Renewable Energy Technologies
+🎯 My Goals
 
-### 📱 App Development
+My goal is to use my college years to:
 
-- Mobile Application Development
-- AI-powered Applications
-- User Interface Development
-- API Integration
-- Automation
+📚 Build strong technical fundamentals
+
+🛠️ Create practical projects
+
+🤖 Explore AI and emerging technologies
+
+⚡ Develop my EEE knowledge
+
+📈 Build useful digital and professional skills
+
+💼 Gain practical industry experience through projects and internships
+
+🌱 Continuously learn and improve
+
+I don't want to just collect certificates — I want to learn skills, build things, and share the journey.
+
+---
+
+🌱 My Learning Philosophy
+
+«Learn → Build → Experiment → Improve → Share»
+
+I'm still at the beginning of my engineering journey, and I'm excited to see where it takes me. 🚀
+
+---
+
+🤝 Open to Opportunities
+
+I'm currently interested in beginner-friendly internships, student projects, collaborations, and learning opportunities where I can gain practical experience and contribute while developing my skills.
+
+If you're working on something related to AI, technology, drones, digital marketing, app development, renewable energy, or student projects, I'd be happy to connect and learn.
+
+---
+
+📊 GitHub Stats
+
+"Rathish's GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Rathish-EEE&show_icons=true&theme=dark)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=Rathish-EEE&layout=compact&theme=dark)
+
+"GitHub Streak" (https://streak-stats.demolab.com?user=Rathish-EEE&theme=dark)
+
+---
+
+🚀 Learning. Building. Improving.
+
+Rathish S.
 
 ### 🌐 Tools & Platforms
 
@@ -89,54 +192,6 @@ I enjoy exploring **drones, electronics, embedded systems, renewable energy, art
 
 ---
 
-## 🚀 Areas I'm Interested In
-
-- 🤖 Artificial Intelligence
-- 🚁 Autonomous Drones
-- 🔌 Embedded Systems
-- 🌐 Internet of Things
-- ⚡ Renewable Energy
-- 🧠 Machine Learning
-- 📱 AI-Based Applications
-- 🤝 Robotics
-- 🔋 Smart Energy Systems
-
----
-
-## 💡 Projects I'm Interested In Building
-
-- 🚁 AI-powered autonomous drone
-- 🌱 Smart agriculture using IoT and drones
-- ⚡ Solar energy monitoring system
-- 🤖 AI-based object detection system
-- 📱 AI-powered mobile applications
-- 🏠 Smart home automation system
-- 🔋 Intelligent battery monitoring system
-- 🌐 IoT-based environmental monitoring system
-
----
-
-## 🌱 Currently Learning
-
-- Python for AI & Machine Learning
-- Embedded C / C++
-- Arduino & ESP32
-- Computer Vision
-- Machine Learning
-- IoT
-- App Development
-- Drone Technology
-- Git & GitHub
-
----
-
-## 🎯 My Goals
-
-> My goal is to develop strong technical skills during college, work on innovative projects, gain practical experience, and use technology to solve real-world problems.
-
-I believe that **learning by building** is one of the best ways to grow as an engineer.
-
----
 
 ## 📊 GitHub Stats
 
